@@ -57,7 +57,7 @@ async def start(client, message):
             InlineKeyboardButton('↖️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘs ↗️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🧞‍♀️ Sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url=f'https://t.me/+YLEjnZL6CSZlNDk1')
+            InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url=f'https://t.me/Grtupjsh')
             ],[
             InlineKeyboardButton('🙆🏻 Hᴇʟᴘ ', callback_data='help'),
             InlineKeyboardButton('🎁 Hᴇʟᴘ++', callback_data='leech_url_help'),
@@ -70,7 +70,7 @@ async def start(client, message):
             InlineKeyboardButton('💸 E𝐚𝐫𝐧 M𝐨𝐧𝐞𝐲 💸', callback_data="shortlink_info")
             ],[
                 InlineKeyboardButton(
-                    "🦋 SUBSCRIBE YT Channel 🦋", url=''
+                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://www.youtube.com/@moviesupdatechannels'
                 )
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -95,7 +95,7 @@ async def start(client, message):
             ],
              [
                 InlineKeyboardButton(
-                    "🦋 SUBSCRIBE YT Channel 🦋", url=''
+                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://www.youtube.com/@moviesupdatechannels'
                 )
             ]
         ]
@@ -119,7 +119,7 @@ async def start(client, message):
             InlineKeyboardButton('↖️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘs ↗️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🧞‍♀️ Sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url='https://t.me/+YLEjnZL6CSZlNDk1')
+            InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url='https://t.me/Grtupjsh')
             ],[
             InlineKeyboardButton('🙆🏻 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🎁 Hᴇʟᴘ++ ', callback_data='leech_url_help'),
